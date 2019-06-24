@@ -1,0 +1,12 @@
+hello/Greeting.class
+hello/entities/Game$STATUS.class
+hello/entities/Participant.class
+hello/entities/Game$OUTCOME.class
+hello/repositories/ParticipantRepository.class
+hello/entities/Move.class
+hello/Application.class
+hello/entities/Game.class
+hello/GameController.class
+hello/repositories/GameRepository.class
+hello/repositories/MovesRepository.class
+hello/GreetingController.class
